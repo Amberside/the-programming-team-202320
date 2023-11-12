@@ -48,6 +48,11 @@ var students =
         "lastName": "Seidl",
         "firstName": "Amberle"
     },
+    {
+        "path": "100642005",
+        "lastName": "Booker-Adams",
+        "firstName": "Michael"
+    }
     
    ];
 
