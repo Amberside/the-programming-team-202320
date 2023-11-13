@@ -44,9 +44,9 @@ var imageList = [
 var students =
 [
     {
-        "path": "100598369",
-        "lastName": "Seidl",
-        "firstName": "Amberle"
+        "path": "100668501",
+        "lastName": "Rufaro",
+        "firstName": "Makotore"
     },
     {
         "path": "100642005",
