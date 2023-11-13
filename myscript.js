@@ -40,6 +40,7 @@ var imageList = [
   "am.png",
   "an.png",
   "ao.png",
+  "potato.png",
 ];
 var students = [
   {
@@ -65,6 +66,10 @@ students.forEach((student, index) => {
     .reduce((acc, subname) => acc + subname[0], "");
   student.color = `color-${((index % maxColor) + 1).toString()}`;
   student.clip = `clip-${((index % maxClip) + 1).toString()}`;
-  student.image = `${imageList[index % maxImage]}`;
+  if (student.path == "100677997") {
+    student.image = "Potato.png";
+  } else {
+    student.image = `${imageList[index % maxImage]}`;
+  }
 });
 var studentList = new StudentList("all-students", students);
