@@ -52,7 +52,12 @@ var students =
         "path": "100642005",
         "lastName": "Booker-Adams",
         "firstName": "Michael"
-    }
+    },
+    {
+        "path": "100667778",
+        "lastName": "Smiley",
+        "firstName": "David"
+    }    
     
    ];
 
