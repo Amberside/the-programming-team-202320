@@ -52,8 +52,12 @@ var students =
         "path": "100642005",
         "lastName": "Booker-Adams",
         "firstName": "Michael"
+    },
+    {
+        "path": "100677294",
+        "lastName": "Naoi",
+        "firstName": "Kazusa"
     }
-    
    ];
 
 const maxColor = 15;
