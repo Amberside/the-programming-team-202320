@@ -95,7 +95,7 @@
     background-color: var(--color-1);
 }
 .flip-card-inner.color-2 .flip-card-front{
-    background-color: var(--color-2);
+    background-color: var(--color-8);
 }
 .flip-card-inner.color-3 .flip-card-front{
     background-color: var(--color-3);
@@ -142,7 +142,7 @@
     color: var(--color-1);
 }
 .flip-card-inner.color-2 .flip-card-front .content{
-    color: var(--color-2);
+    color: var(--color-8);
 }
 .flip-card-inner.color-3 .flip-card-front .content{
     color: var(--color-3);

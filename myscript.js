@@ -49,9 +49,9 @@ var students =
         "firstName": "Amberle"
     },
     {
-        "path": "100642005",
-        "lastName": "Booker-Adams",
-        "firstName": "Michael"
+        "path": "100238519",
+        "lastName": "Simm",
+        "firstName": "Felicitas"
     }
     
    ];
