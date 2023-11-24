@@ -49,11 +49,19 @@ var students =
         "firstName": "Amberle"
     },
     {
+
         "path": "100677046",
         "lastName": "Pham",
         "firstName": "Duy"
     },
-   ];
+        "path": "100642005",
+        "lastName": "Booker-Adams",
+        "firstName": "Michael"
+    }
+    
+    
+
+];
 
 const maxColor = 15;
 const maxClip = 10;
